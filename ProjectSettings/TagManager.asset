@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player1
+  - Player2
+  - chp11
+  - chp12
+  - chp13
+  - chp14
+  - chp21
+  - chp22
+  - chp23
+  - chp24
+  - lap1
+  - lap2
+  - lap3
+  - lap4
+  - Item
+  - Plantas
+  - Madera
+  - Metal
+  - RayJugar
+  - RayCreditos
+  - RayInstrucciones
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

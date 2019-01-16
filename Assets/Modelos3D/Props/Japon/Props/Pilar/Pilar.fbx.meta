@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 46fb75c302c312c448bc6fa7b6b5852c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Camera
+    100002: CasaPrincipal (2)
+    100004: //RootNode
+    100006: Pilar
+    400000: Camera
+    400002: CasaPrincipal (2)
+    400004: //RootNode
+    400006: Pilar
+    2000000: Camera
+    2100000: Default
+    2300000: Pilar
+    3300000: Pilar
+    4300000: Pilar
+    7400000: CasaPrincipal (2)|Arco|Take 001|Layer 001
+    7400002: CasaPrincipal (2)|Banca|Take 001|Layer 001
+    7400004: CasaPrincipal (2)|Barda|Take 001|Layer 001
+    7400006: CasaPrincipal (2)|Camera|Take 001|Layer 001
+    7400008: CasaPrincipal (2)|CasaGrande|Take 001|Layer 001
+    7400010: CasaPrincipal (2)|CasaPrincipal (2)|Take 001|Layer 001
+    7400012: CasaPrincipal (2)|CasaPrincipal|Take 001|Layer 001
+    7400014: CasaPrincipal (2)|Directional Light|Take 001|Layer 001
+    7400016: CasaPrincipal (2)|Escaleras|Take 001|Layer 001
+    7400018: CasaPrincipal (2)|Lampara|Take 001|Layer 001
+    7400020: CasaPrincipal (2)|Madera    |Take 001|Layer 001
+    7400022: CasaPrincipal (2)|MarcoPuerta|Take 001|Layer 001
+    7400024: CasaPrincipal (2)|MarcoVentana|Take 001|Layer 001
+    7400026: CasaPrincipal (2)|Pilar|Take 001|Layer 001
+    7400028: CasaPrincipal (2)|PlataformaChica|Take 001|Layer 001
+    7400030: CasaPrincipal (2)|PlataformaGrande|Take 001|Layer 001
+    7400032: CasaPrincipal (2)|Presa|Take 001|Layer 001
+    7400034: CasaPrincipal (2)|PuenteMadera|Take 001|Layer 001
+    7400036: CasaPrincipal (2)|Puerta|Take 001|Layer 001
+    7400038: CasaPrincipal (2)|VentanaGrande|Take 001|Layer 001
+    7400040: Camera|Arco|Take 001|Layer 001
+    7400042: Camera|Banca|Take 001|Layer 001
+    7400044: Camera|Barda|Take 001|Layer 001
+    7400046: Camera|Camera|Take 001|Layer 001
+    7400048: Camera|CasaGrande|Take 001|Layer 001
+    7400050: Camera|CasaPrincipal (2)|Take 001|Layer 001
+    7400052: Camera|CasaPrincipal|Take 001|Layer 001
+    7400054: Camera|Directional Light|Take 001|Layer 001
+    7400056: Camera|Escaleras|Take 001|Layer 001
+    7400058: Camera|Lampara|Take 001|Layer 001
+    7400060: Camera|Madera    |Take 001|Layer 001
+    7400062: Camera|MarcoPuerta|Take 001|Layer 001
+    7400064: Camera|MarcoVentana|Take 001|Layer 001
+    7400066: Camera|Pilar|Take 001|Layer 001
+    7400068: Camera|PlataformaChica|Take 001|Layer 001
+    7400070: Camera|PlataformaGrande|Take 001|Layer 001
+    7400072: Camera|Presa|Take 001|Layer 001
+    7400074: Camera|PuenteMadera|Take 001|Layer 001
+    7400076: Camera|Puerta|Take 001|Layer 001
+    7400078: Camera|VentanaGrande|Take 001|Layer 001
+    7400080: Pilar|Arco|Take 001|Layer 001
+    7400082: Pilar|Banca|Take 001|Layer 001
+    7400084: Pilar|Barda|Take 001|Layer 001
+    7400086: Pilar|Camera|Take 001|Layer 001
+    7400088: Pilar|CasaGrande|Take 001|Layer 001
+    7400090: Pilar|CasaPrincipal (2)|Take 001|Layer 001
+    7400092: Pilar|CasaPrincipal|Take 001|Layer 001
+    7400094: Pilar|Directional Light|Take 001|Layer 001
+    7400096: Pilar|Escaleras|Take 001|Layer 001
+    7400098: Pilar|Lampara|Take 001|Layer 001
+    7400100: Pilar|Madera    |Take 001|Layer 001
+    7400102: Pilar|MarcoPuerta|Take 001|Layer 001
+    7400104: Pilar|MarcoVentana|Take 001|Layer 001
+    7400106: Pilar|Pilar|Take 001|Layer 001
+    7400108: Pilar|PlataformaChica|Take 001|Layer 001
+    7400110: Pilar|PlataformaGrande|Take 001|Layer 001
+    7400112: Pilar|Presa|Take 001|Layer 001
+    7400114: Pilar|PuenteMadera|Take 001|Layer 001
+    7400116: Pilar|Puerta|Take 001|Layer 001
+    7400118: Pilar|VentanaGrande|Take 001|Layer 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

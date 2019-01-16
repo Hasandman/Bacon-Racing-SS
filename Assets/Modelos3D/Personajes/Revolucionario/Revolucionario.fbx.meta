@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 27739f11da722514781d7aac3db72793
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Revolucion
+    100002: //RootNode
+    100004: Revolucionario
+    100006: Revoluvionado
+    400000: Revolucion
+    400002: //RootNode
+    400004: Revolucionario
+    400006: Revoluvionado
+    2100000: Negroo
+    2100002: Default
+    2100004: Verdelim
+    2100006: Verdefuerte
+    2100008: VerdeF
+    2100010: Beise
+    2100012: Negro
+    2100014: Azul
+    2100016: Cafe
+    2100018: Amarillo
+    2100020: Vaso
+    2100022: Blanco
+    2300000: Revolucion
+    2300002: Revolucionario
+    2300004: Revoluvionado
+    3300000: Revolucion
+    3300002: Revolucionario
+    3300004: Revoluvionado
+    4300000: Revolucion
+    4300002: Revoluvionado
+    4300004: Revolucionario
+    7400000: Revolucion|Camera.001|Take 001|Layer 001
+    7400002: Revolucion|Cuau (2)|Take 001|Layer 001
+    7400004: Revolucion|Cuau (3)|Take 001|Layer 001
+    7400006: Revolucion|cuau|Take 001|Layer 001
+    7400008: Revolucion|Cuau|Take 001|Layer 001
+    7400010: Revolucion|Directional Light|Take 001|Layer 001
+    7400012: Revolucion|Revolucionario|Take 001|Layer 001
+    7400014: Revolucion|Revolucion|Take 001|Layer 001
+    7400016: Revolucion|Revoluvionado|Take 001|Layer 001
+    7400018: Revoluvionado|Camera.001|Take 001|Layer 001
+    7400020: Revoluvionado|Cuau (2)|Take 001|Layer 001
+    7400022: Revoluvionado|Cuau (3)|Take 001|Layer 001
+    7400024: Revoluvionado|cuau|Take 001|Layer 001
+    7400026: Revoluvionado|Cuau|Take 001|Layer 001
+    7400028: Revoluvionado|Directional Light|Take 001|Layer 001
+    7400030: Revoluvionado|Revolucionario|Take 001|Layer 001
+    7400032: Revoluvionado|Revolucion|Take 001|Layer 001
+    7400034: Revoluvionado|Revoluvionado|Take 001|Layer 001
+    7400036: Revolucionario|Camera.001|Take 001|Layer 001
+    7400038: Revolucionario|Cuau (2)|Take 001|Layer 001
+    7400040: Revolucionario|Cuau (3)|Take 001|Layer 001
+    7400042: Revolucionario|cuau|Take 001|Layer 001
+    7400044: Revolucionario|Cuau|Take 001|Layer 001
+    7400046: Revolucionario|Directional Light|Take 001|Layer 001
+    7400048: Revolucionario|Revolucionario|Take 001|Layer 001
+    7400050: Revolucionario|Revolucion|Take 001|Layer 001
+    7400052: Revolucionario|Revoluvionado|Take 001|Layer 001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a03ca6cb9f5e26b409a26d7226ead6bc
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - personaje: {instanceID: 0}
+  - TequilaP1: {instanceID: 0}
+  - TequilaP2: {fileID: 1897445314102076, guid: d7ffe23eafd7fed44a47edb9a17a55b4,
+      type: 2}
+  - JaponesP1: {fileID: 1905655518129150, guid: 851c6b29b79a0584d93c64a32b2ba8e6,
+      type: 2}
+  - JaponesP2: {fileID: 1262537224390962, guid: 62366d7690de0f4448d67e0b28ae0d60,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

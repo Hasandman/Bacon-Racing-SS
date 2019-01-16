@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e0199caf775f3384bb2b76989ab8d7c8
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ' tradicional'
+    100002: arbol cerezo
+    100004: arbol de cerezo
+    100006: arbol de cerezo (2)
+    100008: arbol de cerezo (3)
+    100010: arbol de cerezo (4)
+    100012: arbol de cerezo (5)
+    100014: arbol de cerezo (6)
+    100016: arbol de cerezo2
+    100018: arbol repartido
+    100020: arbol repartido (10)
+    100022: arbol repartido (11)
+    100024: arbol repartido (12)
+    100026: arbol repartido (13)
+    100028: arbol repartido (14)
+    100030: arbol repartido (15)
+    100032: arbol repartido (16)
+    100034: arbol repartido (17)
+    100036: arbol repartido (18)
+    100038: arbol repartido (19)
+    100040: arbol repartido (2)
+    100042: arbol repartido (20)
+    100044: arbol repartido (21)
+    100046: arbol repartido (22)
+    100048: arbol repartido (23)
+    100050: arbol repartido (24)
+    100052: arbol repartido (25)
+    100054: arbol repartido (26)
+    100056: arbol repartido (27)
+    100058: arbol repartido (28)
+    100060: arbol repartido (29)
+    100062: arbol repartido (3)
+    100064: arbol repartido (30)
+    100066: arbol repartido (4)
+    100068: arbol repartido (5)
+    100070: arbol repartido (6)
+    100072: arbol repartido (7)
+    100074: arbol repartido (8)
+    100076: arbol repartido (9)
+    100078: barrera
+    100080: barreras
+    100082: Camera
+    100084: cartel gigante
+    100086: casa tradicional
+    100088: casa tradicional (11)
+    100090: casa tradicional (2)
+    100092: casa tradicional (3)
+    100094: casa tradicional (4)
+    100096: casa tradicional (5)
+    100098: casa tradicional (6)
+    100100: casa tradicional (7)
+    100102: casa tradicional (8)
+    100104: casa tradicional (9)
+    100106: departamentos
+    100108: Directional Light
+    100110: dragon
+    100112: edificio comun
+    100114: edificio comun (10)
+    100116: edificio comun (11)
+    100118: edificio comun (12)
+    100120: edificio comun (13)
+    100122: edificio comun (14)
+    100124: edificio comun (15)
+    100126: edificio comun (16)
+    100128: edificio comun (17)
+    100130: edificio comun (18)
+    100132: edificio comun (19)
+    100134: edificio comun (2)
+    100136: edificio comun (20)
+    100138: edificio comun (21)
+    100140: edificio comun (22)
+    100142: edificio comun (23)
+    100144: edificio comun (24)
+    100146: edificio comun (25)
+    100148: edificio comun (26)
+    100150: edificio comun (27)
+    100152: edificio comun (28)
+    100154: edificio comun (29)
+    100156: edificio comun (3)
+    100158: edificio comun (30)
+    100160: edificio comun (31)
+    100162: edificio comun (4)
+    100164: edificio comun (5)
+    100166: edificio comun (6)
+    100168: edificio comun (7)
+    100170: edificio comun (8)
+    100172: edificio comun (9)
+    100174: edificio comun 2
+    100176: edificio comun con variaciones
+    100178: edificio comun con variaciones (2)
+    100180: edificio comun con variaciones (3)
+    100182: edificio comun con variaciones (4)
+    100184: edificio comun con variaciones (5)
+    100186: edificio comun con variaciones (6)
+    100188: Entrada
+    100190: farol
+    100192: farol cuadrado
+    100194: Group Locator
+    100196: 'Meta '
+    100198: "monta\xF1as"
+    100200: pista
+    100202: props alan
+    100204: Stant1
+    100206: terreno
+    100208: tienda comun
+    100210: //RootNode
+    400000: ' tradicional'
+    400002: arbol cerezo
+    400004: arbol de cerezo
+    400006: arbol de cerezo (2)
+    400008: arbol de cerezo (3)
+    400010: arbol de cerezo (4)
+    400012: arbol de cerezo (5)
+    400014: arbol de cerezo (6)
+    400016: arbol de cerezo2
+    400018: arbol repartido
+    400020: arbol repartido (10)
+    400022: arbol repartido (11)
+    400024: arbol repartido (12)
+    400026: arbol repartido (13)
+    400028: arbol repartido (14)
+    400030: arbol repartido (15)
+    400032: arbol repartido (16)
+    400034: arbol repartido (17)
+    400036: arbol repartido (18)
+    400038: arbol repartido (19)
+    400040: arbol repartido (2)
+    400042: arbol repartido (20)
+    400044: arbol repartido (21)
+    400046: arbol repartido (22)
+    400048: arbol repartido (23)
+    400050: arbol repartido (24)
+    400052: arbol repartido (25)
+    400054: arbol repartido (26)
+    400056: arbol repartido (27)
+    400058: arbol repartido (28)
+    400060: arbol repartido (29)
+    400062: arbol repartido (3)
+    400064: arbol repartido (30)
+    400066: arbol repartido (4)
+    400068: arbol repartido (5)
+    400070: arbol repartido (6)
+    400072: arbol repartido (7)
+    400074: arbol repartido (8)
+    400076: arbol repartido (9)
+    400078: barrera
+    400080: barreras
+    400082: Camera
+    400084: cartel gigante
+    400086: casa tradicional
+    400088: casa tradicional (11)
+    400090: casa tradicional (2)
+    400092: casa tradicional (3)
+    400094: casa tradicional (4)
+    400096: casa tradicional (5)
+    400098: casa tradicional (6)
+    400100: casa tradicional (7)
+    400102: casa tradicional (8)
+    400104: casa tradicional (9)
+    400106: departamentos
+    400108: Directional Light
+    400110: dragon
+    400112: edificio comun
+    400114: edificio comun (10)
+    400116: edificio comun (11)
+    400118: edificio comun (12)
+    400120: edificio comun (13)
+    400122: edificio comun (14)
+    400124: edificio comun (15)
+    400126: edificio comun (16)
+    400128: edificio comun (17)
+    400130: edificio comun (18)
+    400132: edificio comun (19)
+    400134: edificio comun (2)
+    400136: edificio comun (20)
+    400138: edificio comun (21)
+    400140: edificio comun (22)
+    400142: edificio comun (23)
+    400144: edificio comun (24)
+    400146: edificio comun (25)
+    400148: edificio comun (26)
+    400150: edificio comun (27)
+    400152: edificio comun (28)
+    400154: edificio comun (29)
+    400156: edificio comun (3)
+    400158: edificio comun (30)
+    400160: edificio comun (31)
+    400162: edificio comun (4)
+    400164: edificio comun (5)
+    400166: edificio comun (6)
+    400168: edificio comun (7)
+    400170: edificio comun (8)
+    400172: edificio comun (9)
+    400174: edificio comun 2
+    400176: edificio comun con variaciones
+    400178: edificio comun con variaciones (2)
+    400180: edificio comun con variaciones (3)
+    400182: edificio comun con variaciones (4)
+    400184: edificio comun con variaciones (5)
+    400186: edificio comun con variaciones (6)
+    400188: Entrada
+    400190: farol
+    400192: farol cuadrado
+    400194: Group Locator
+    400196: 'Meta '
+    400198: "monta\xF1as"
+    400200: pista
+    400202: props alan
+    400204: Stant1
+    400206: terreno
+    400208: tienda comun
+    400210: //RootNode
+    2000000: Camera
+    2100000: carretera
+    2100002: Default
+    2100004: agua
+    2100006: "monta\xF1a base"
+    2100008: "monta\xF1a copa"
+    2100010: detalles cabeza2
+    2100012: cabeza
+    2100014: barba cabeza
+    2100016: detalles cabeza
+    2100018: parpados
+    2100020: ojos
+    2100022: bigotes
+    2100024: detalles escamas
+    2100026: escamas
+    2100028: patas
+    2100030: Garras
+    2100032: arbol
+    2300000: arbol de cerezo
+    2300002: arbol de cerezo (2)
+    2300004: arbol de cerezo (3)
+    2300006: arbol de cerezo (4)
+    2300008: arbol de cerezo (5)
+    2300010: arbol de cerezo (6)
+    2300012: arbol repartido
+    2300014: arbol repartido (10)
+    2300016: arbol repartido (11)
+    2300018: arbol repartido (12)
+    2300020: arbol repartido (13)
+    2300022: arbol repartido (14)
+    2300024: arbol repartido (15)
+    2300026: arbol repartido (16)
+    2300028: arbol repartido (17)
+    2300030: arbol repartido (18)
+    2300032: arbol repartido (19)
+    2300034: arbol repartido (2)
+    2300036: arbol repartido (20)
+    2300038: arbol repartido (21)
+    2300040: arbol repartido (22)
+    2300042: arbol repartido (23)
+    2300044: arbol repartido (24)
+    2300046: arbol repartido (25)
+    2300048: arbol repartido (26)
+    2300050: arbol repartido (27)
+    2300052: arbol repartido (28)
+    2300054: arbol repartido (29)
+    2300056: arbol repartido (3)
+    2300058: arbol repartido (30)
+    2300060: arbol repartido (4)
+    2300062: arbol repartido (5)
+    2300064: arbol repartido (6)
+    2300066: arbol repartido (7)
+    2300068: arbol repartido (8)
+    2300070: arbol repartido (9)
+    2300072: barrera
+    2300074: cartel gigante
+    2300076: casa tradicional
+    2300078: casa tradicional (11)
+    2300080: casa tradicional (2)
+    2300082: casa tradicional (3)
+    2300084: casa tradicional (4)
+    2300086: casa tradicional (5)
+    2300088: casa tradicional (6)
+    2300090: casa tradicional (7)
+    2300092: casa tradicional (8)
+    2300094: casa tradicional (9)
+    2300096: departamentos
+    2300098: dragon
+    2300100: edificio comun
+    2300102: edificio comun (10)
+    2300104: edificio comun (11)
+    2300106: edificio comun (12)
+    2300108: edificio comun (13)
+    2300110: edificio comun (14)
+    2300112: edificio comun (15)
+    2300114: edificio comun (16)
+    2300116: edificio comun (17)
+    2300118: edificio comun (18)
+    2300120: edificio comun (19)
+    2300122: edificio comun (20)
+    2300124: edificio comun (21)
+    2300126: edificio comun (22)
+    2300128: edificio comun (23)
+    2300130: edificio comun (24)
+    2300132: edificio comun (25)
+    2300134: edificio comun (26)
+    2300136: edificio comun (27)
+    2300138: edificio comun (28)
+    2300140: edificio comun (29)
+    2300142: edificio comun (3)
+    2300144: edificio comun (30)
+    2300146: edificio comun (31)
+    2300148: edificio comun (4)
+    2300150: edificio comun (5)
+    2300152: edificio comun (6)
+    2300154: edificio comun (7)
+    2300156: edificio comun (8)
+    2300158: edificio comun (9)
+    2300160: edificio comun 2
+    2300162: edificio comun con variaciones
+    2300164: edificio comun con variaciones (2)
+    2300166: edificio comun con variaciones (3)
+    2300168: edificio comun con variaciones (4)
+    2300170: edificio comun con variaciones (5)
+    2300172: edificio comun con variaciones (6)
+    2300174: Entrada
+    2300176: farol
+    2300178: farol cuadrado
+    2300180: 'Meta '
+    2300182: "monta\xF1as"
+    2300184: pista
+    2300186: Stant1
+    2300188: terreno
+    2300190: tienda comun
+    3300000: arbol de cerezo
+    3300002: arbol de cerezo (2)
+    3300004: arbol de cerezo (3)
+    3300006: arbol de cerezo (4)
+    3300008: arbol de cerezo (5)
+    3300010: arbol de cerezo (6)
+    3300012: arbol repartido
+    3300014: arbol repartido (10)
+    3300016: arbol repartido (11)
+    3300018: arbol repartido (12)
+    3300020: arbol repartido (13)
+    3300022: arbol repartido (14)
+    3300024: arbol repartido (15)
+    3300026: arbol repartido (16)
+    3300028: arbol repartido (17)
+    3300030: arbol repartido (18)
+    3300032: arbol repartido (19)
+    3300034: arbol repartido (2)
+    3300036: arbol repartido (20)
+    3300038: arbol repartido (21)
+    3300040: arbol repartido (22)
+    3300042: arbol repartido (23)
+    3300044: arbol repartido (24)
+    3300046: arbol repartido (25)
+    3300048: arbol repartido (26)
+    3300050: arbol repartido (27)
+    3300052: arbol repartido (28)
+    3300054: arbol repartido (29)
+    3300056: arbol repartido (3)
+    3300058: arbol repartido (30)
+    3300060: arbol repartido (4)
+    3300062: arbol repartido (5)
+    3300064: arbol repartido (6)
+    3300066: arbol repartido (7)
+    3300068: arbol repartido (8)
+    3300070: arbol repartido (9)
+    3300072: barrera
+    3300074: cartel gigante
+    3300076: casa tradicional
+    3300078: casa tradicional (11)
+    3300080: casa tradicional (2)
+    3300082: casa tradicional (3)
+    3300084: casa tradicional (4)
+    3300086: casa tradicional (5)
+    3300088: casa tradicional (6)
+    3300090: casa tradicional (7)
+    3300092: casa tradicional (8)
+    3300094: casa tradicional (9)
+    3300096: departamentos
+    3300098: dragon
+    3300100: edificio comun
+    3300102: edificio comun (10)
+    3300104: edificio comun (11)
+    3300106: edificio comun (12)
+    3300108: edificio comun (13)
+    3300110: edificio comun (14)
+    3300112: edificio comun (15)
+    3300114: edificio comun (16)
+    3300116: edificio comun (17)
+    3300118: edificio comun (18)
+    3300120: edificio comun (19)
+    3300122: edificio comun (20)
+    3300124: edificio comun (21)
+    3300126: edificio comun (22)
+    3300128: edificio comun (23)
+    3300130: edificio comun (24)
+    3300132: edificio comun (25)
+    3300134: edificio comun (26)
+    3300136: edificio comun (27)
+    3300138: edificio comun (28)
+    3300140: edificio comun (29)
+    3300142: edificio comun (3)
+    3300144: edificio comun (30)
+    3300146: edificio comun (31)
+    3300148: edificio comun (4)
+    3300150: edificio comun (5)
+    3300152: edificio comun (6)
+    3300154: edificio comun (7)
+    3300156: edificio comun (8)
+    3300158: edificio comun (9)
+    3300160: edificio comun 2
+    3300162: edificio comun con variaciones
+    3300164: edificio comun con variaciones (2)
+    3300166: edificio comun con variaciones (3)
+    3300168: edificio comun con variaciones (4)
+    3300170: edificio comun con variaciones (5)
+    3300172: edificio comun con variaciones (6)
+    3300174: Entrada
+    3300176: farol
+    3300178: farol cuadrado
+    3300180: 'Meta '
+    3300182: "monta\xF1as"
+    3300184: pista
+    3300186: Stant1
+    3300188: terreno
+    3300190: tienda comun
+    4300000: pista
+    4300002: edificio comun
+    4300004: terreno
+    4300006: edificio comun 2
+    4300008: cartel gigante
+    4300010: Stant1
+    4300012: "monta\xF1as"
+    4300014: departamentos
+    4300016: dragon
+    4300018: 'Meta '
+    4300020: casa tradicional
+    4300022: edificio comun con variaciones (2)
+    4300024: tienda comun
+    4300026: arbol de cerezo
+    4300028: arbol repartido (2)
+    4300030: farol cuadrado
+    4300032: Entrada
+    4300034: barrera
+    4300036: farol
+    7400000: Take 001
+    9500000: //RootNode
+    10800000: Directional Light
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
